@@ -1,0 +1,33 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5d0fe;
+  min-height: 100vh;
+}
+
+.editable-container {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.button {
+  background-color: #d946ef;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.text-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-container {
+  padding: 10px;
+  border-radius: 5px;
+  color: #323f4b;
+}
